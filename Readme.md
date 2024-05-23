@@ -1,4 +1,4 @@
-# TASK 2 --> Lung Tidal Volume Estimation
+# TASK 4 --> NLP
 
 ### Approach to the Problem
 - First I skimmed throught the paper and searched on the internet for understanding what RAG model are.
